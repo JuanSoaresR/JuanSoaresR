@@ -1,7 +1,7 @@
 ## Olá eu sou o Juan Soares, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://www.youtube.com/channel/UCytUuxL41cQVvJivsjxWBtQ">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=JuanSoaresR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="59%" src="https://github-readme-stats.vercel.app/api?username=JuanSoaresR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSoaresR&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
